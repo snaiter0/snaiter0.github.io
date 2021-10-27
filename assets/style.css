@@ -253,7 +253,7 @@ body{
 
 .botaoAccess{
 background-color: #aa053c;
-color: black;
+color: black !important;
 }
 
 .botaoAccess:hover{
