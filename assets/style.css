@@ -251,7 +251,11 @@ body{
   float: right;
 }
 
-.botao-acess:hover{
+.botaoAccess{
+background-color: #E1306C;
+}
+
+.botaoAccess:hover{
 background-color: #55021e;
 transition: 0.5s;
 }
