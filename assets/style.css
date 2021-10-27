@@ -251,6 +251,10 @@ body{
   float: right;
 }
 
+a{
+color: black;
+}
+
 .botaoAccess{
 background-color: #aa053c;
 color: black !important;
