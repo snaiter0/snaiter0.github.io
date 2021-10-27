@@ -251,6 +251,11 @@ body{
   float: right;
 }
 
+.botao-acess:hover{
+background-color: #55021e;
+transition: 0.5s;
+}
+
 @media only screen and (max-width: 980px){
   #img { display: none;  }
 }
