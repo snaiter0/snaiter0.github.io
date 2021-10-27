@@ -252,12 +252,14 @@ body{
 }
 
 .botaoAccess{
-background-color: #E1306C;
+background-color: #aa053c;
+color: black;
 }
 
 .botaoAccess:hover{
-background-color: #55021e;
 transition: 0.5s;
+color: #FAFAFA;
+background-color: #E1306C;
 }
 
 @media only screen and (max-width: 980px){
